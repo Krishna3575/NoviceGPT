@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
+Create a .env file in the root directory of the project and copy the format shown in the .env.example file.
+You can get the api key from [Google Ai Studios](https://aistudio.google.com/apikey).
 First, run the development server:
 
 ```bash
